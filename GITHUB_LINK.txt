@@ -1,0 +1,11 @@
+Repository URL: https://github.com/AntonioCarlosSectionD/NavigationApp
+Student Name: Antonio Carlos
+Student ID: N01697374
+Lab: CPAN 213 - Lab 6
+Date: November 19, 2025
+Navigation Features Implemented:
+- Stack Navigator with 3 screens (Home, Details, Profile)
+- Tab Navigator with 3 tabs
+- Parameter passing between screens
+- Custom header styling
+- Navigation actions (navigate, goBack, setParams)
